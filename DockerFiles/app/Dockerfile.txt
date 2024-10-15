@@ -1,0 +1,4 @@
+FROM tomcat:latest
+
+# Expose the port Tomcat will listen on
+EXPOSE 8081
